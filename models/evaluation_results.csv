@@ -1,0 +1,2 @@
+dataset_size,training_samples,testing_samples,number_of_roles,accuracy,weighted_precision,weighted_recall,weighted_f1
+10000,8000,2000,324,99.35,99.4508,99.35,99.3423
